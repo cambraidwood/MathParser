@@ -1,0 +1,6 @@
+D:\Cam\development\Projects\MathParser\MathParser\bin\Debug\MathParser.exe.config
+D:\Cam\development\Projects\MathParser\MathParser\bin\Debug\MathParser.exe
+D:\Cam\development\Projects\MathParser\MathParser\bin\Debug\MathParser.pdb
+D:\Cam\development\Projects\MathParser\MathParser\obj\Debug\MathParser.exe
+D:\Cam\development\Projects\MathParser\MathParser\obj\Debug\MathParser.pdb
+D:\Cam\development\Projects\MathParser\MathParser\bin\Debug\SimpleExpressionEvaluator.dll

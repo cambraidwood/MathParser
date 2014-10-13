@@ -1,0 +1,8 @@
+D:\Cam\development\Projects\MathParser\MathParser.Tests\bin\Debug\MathParser.Tests.dll
+D:\Cam\development\Projects\MathParser\MathParser.Tests\bin\Debug\MathParser.Tests.pdb
+D:\Cam\development\Projects\MathParser\MathParser.Tests\bin\Debug\MathParser.exe
+D:\Cam\development\Projects\MathParser\MathParser.Tests\bin\Debug\SimpleExpressionEvaluator.dll
+D:\Cam\development\Projects\MathParser\MathParser.Tests\bin\Debug\MathParser.pdb
+D:\Cam\development\Projects\MathParser\MathParser.Tests\obj\Debug\MathParser.Tests.csprojResolveAssemblyReference.cache
+D:\Cam\development\Projects\MathParser\MathParser.Tests\obj\Debug\MathParser.Tests.dll
+D:\Cam\development\Projects\MathParser\MathParser.Tests\obj\Debug\MathParser.Tests.pdb
